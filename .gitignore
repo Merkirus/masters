@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Python virtual environment
+venv/
+.venv/
+
+# Generated output
+out/
+
+# API docs / generated OpenAPI artifacts
+api-docs.html
+openapi.yaml
+openapitools.json
